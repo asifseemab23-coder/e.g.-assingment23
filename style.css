@@ -1,0 +1,21 @@
+.div2{
+    margin-left: 30px;
+    position: fixed;
+}
+.hd{
+    background-color: #ffffff;
+   
+   
+}
+p{
+    display: inline-block;
+    background-color: white;
+    
+}
+
+.div3{
+    margin-left: 400px;
+    position: fixed;
+    background-color: #ffffff;
+   margin-right: 600px;
+}
